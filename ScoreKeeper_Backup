@@ -1,0 +1,118 @@
+package com.alyssalerner.mouseytrap;
+
+import android.util.Log;
+
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+
+/** Retrieves and keeps high score information.
+ * Created by Alyssa on 2016-06-24.
+ */
+public class ScoreKeeper {
+    private static final String TAG = "ScoreKeeper";
+    private static int playerHighScore; // Highest score on this device.
+    private static boolean highScoreChanged = false;    // True if high score has been changed since program opened.
+    private static GamePanel gamePanel;
+
+    public static void initialize(GamePanel panel) {
+        Log.i(TAG, "Initializing...");
+        gamePanel = panel;
+        playerHighScore = retrieveHighScore();
+        Log.i(TAG, "...Finished initializing.");
+
+    }
+
+    // Save the high score to the file if it's changed.
+    public static void saveHighScore() {
+        Log.i(TAG, "Saving high score...");
+        if (highScoreChanged) {
+            try {
+                JSONObject jsonObject = retrieveJsonObject();
+                jsonObject.put("highscore", playerHighScore);
+                FileWriter writer = new FileWriter(new File(R.raw.savedinfo));
+                writer.write(jsonObject.toString());
+                writer.close();
+            } catch (JSONException e) {
+                Log.e(TAG, "JSON error writing high score to file: " + e);
+            } catch (IOException e) {
+                Log.e(TAG, "I/O error writing high score to file: " + e);
+            }
+        }
+        Log.i(TAG, "...Finished saving high score.");
+}
+
+    /* Update the player's high score to the new value if it's greater.
+     * newScore: The new score which the current one will be compared with.
+     * return true if the high score was updated to the new value.
+     */
+    public static boolean updateHighScore(int newScore) {
+        Log.i(TAG, "Updating high score...");
+        if (newScore > playerHighScore) {
+            playerHighScore = newScore;
+            highScoreChanged = true;
+            Log.i(TAG, "...Finished updating high score.");
+            return true;
+        }
+        Log.i(TAG, "...Finished updating high score.");
+        return false;
+    }
+
+    public static int getPlayerHighScore() {
+        return playerHighScore;
+    }
+
+    // Retrieve the player's high score from the file.
+    private static int retrieveHighScore() {
+        Log.i(TAG, "Retrieving high score.");
+        int storedHighScore = 0;
+        JSONObject jsonObject = retrieveJsonObject();
+        try {
+            storedHighScore = jsonObject.getInt("highScore");
+        } catch (Exception e) {
+            Log.e(TAG, "Error reading high score from JSON object: " + e);
+        }
+        playerHighScore = storedHighScore;
+        Log.i(TAG, "Retrieved old high score: " + storedHighScore);
+        Log.i(TAG, "...Finished retrieving high score.");
+        return playerHighScore;
+    }
+
+    private static JSONObject retrieveJsonObject() {
+        JSONObject jsonObject = null;
+        try {
+            String jsonContents = readFile(R.raw.savedinfo, gamePanel);
+            jsonObject = new JSONObject(jsonContents);
+        } catch (JSONException e) {
+            Log.e(TAG, "Error extracting JSON object: " + e);
+        }
+        return jsonObject;
+    }
+
+    // Retrieve file contents from the given raw resource file.
+    private static String readFile(int fileRes, GamePanel gamePanel) {
+        String fileContents = "";
+        InputStream fStream;
+        BufferedReader reader;
+        try {
+            fStream = gamePanel.getResources().openRawResource(fileRes);
+            reader = new BufferedReader(new InputStreamReader(fStream));
+
+            String line;
+            while ((line = reader.readLine()) != null) {
+                fileContents += line + "\n";
+            }
+            fStream.close();
+            reader.close();
+        } catch(IOException e) {
+            Log.e(TAG, "Error reading file:" + e);
+        }
+        return fileContents;
+    }
+}

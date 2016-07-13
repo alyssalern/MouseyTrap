@@ -1,0 +1,52 @@
+[
+	{
+		"background" : "background_a.png",
+		"traps" : [
+			{
+				"orientation" : "up",
+				"x" : 640
+				"y" : 360
+			},
+			{
+				"orientation" : "down"
+				"x" : 1280
+				"y" : 1080
+			},
+			{
+				"orientation" : "up"
+				"x" : 1920
+				"y" : 360
+			},
+			{
+				"orientation" : "right"
+				"x" : 1920
+				"y" : 720
+			}
+		]
+	},
+	{
+		"background" : "background_b.png",
+		"traps" : [
+			{
+				"orientation" : "right"
+				"x" : 1280
+				"y" : 360
+			},
+			{
+				"orientation" : "up"
+				"x" : 1920
+				"y" : 360
+			},
+			{
+				"orientation" : "down"
+				"x" : 640
+				"y" : 1410
+			},
+			{
+				"orientation" : "left"
+				"x" : 1280
+				"y" : 1410
+			}
+		]
+	}
+]

@@ -1,0 +1,581 @@
+06-27 20:59:49.723 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:49.723 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 6378174(46%
+06-27 20:59:49.723 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244140(1%
+06-27 20:59:49.723 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 30518(0%
+06-27 20:59:49.723 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 61035(0%
+06-27 20:59:49.723 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:49.723 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7110595(51%
+06-27 20:59:49.753 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:49.753 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7537842(50%
+06-27 20:59:49.753 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274658(1%
+06-27 20:59:49.753 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:49.753 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:49.753 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:49.753 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7141114(47%
+06-27 20:59:49.783 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:49.783 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 8880616(47%
+06-27 20:59:49.783 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274658(1%
+06-27 20:59:49.783 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 30518(0%
+06-27 20:59:49.783 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:49.783 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:49.783 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 9399413(50%
+06-27 20:59:49.803 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:49.803 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 10711670(50%
+06-27 20:59:49.803 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244140(1%
+06-27 20:59:49.803 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:49.803 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:49.803 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:49.803 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 10192871(47%
+06-27 20:59:49.833 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:49.833 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 14221192(46%
+06-27 20:59:49.833 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274658(0%
+06-27 20:59:49.833 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 30518(0%
+06-27 20:59:49.833 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:49.833 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:49.833 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 15655517(51%
+06-27 20:59:49.853 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:49.853 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7232666(49%
+06-27 20:59:49.853 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274658(1%
+06-27 20:59:49.853 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:49.853 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 61035(0%
+06-27 20:59:49.853 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:49.853 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 6988526(48%
+06-27 20:59:49.883 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:49.883 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 8941649(51%
+06-27 20:59:49.883 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244141(1%
+06-27 20:59:49.883 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:49.883 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:49.883 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:49.883 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 8117675(46%
+06-27 20:59:49.903 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:49.903 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 6896973(49%
+06-27 20:59:49.903 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244141(1%
+06-27 20:59:49.903 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:49.903 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 61035(0%
+06-27 20:59:49.903 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:49.903 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 6744385(48%
+06-27 20:59:49.923 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:49.923 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7232666(47%
+06-27 20:59:49.923 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244140(1%
+06-27 20:59:49.923 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:49.923 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:49.923 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:49.923 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7629395(50%
+06-27 20:59:49.943 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:49.943 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 8087159(39%
+06-27 20:59:49.943 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 2593994(12%
+06-27 20:59:49.943 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:49.943 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:49.943 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 30517(0%
+06-27 20:59:49.943 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 9857177(47%
+06-27 20:59:49.973 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:49.973 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 15777587(56%
+06-27 20:59:49.973 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 366211(1%
+06-27 20:59:49.973 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:49.973 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 152588(0%
+06-27 20:59:49.973 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:49.973 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 11779784(41%
+06-27 20:59:50.003 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.003 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 13092042(62%
+06-27 20:59:50.003 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 488281(2%
+06-27 20:59:50.003 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.003 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:50.003 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.003 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7385254(35%
+06-27 20:59:50.023 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.023 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7171631(47%
+06-27 20:59:50.023 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274658(1%
+06-27 20:59:50.023 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.023 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:50.023 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.023 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7598877(50%
+06-27 20:59:50.053 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.053 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 9155274(40%
+06-27 20:59:50.053 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274658(1%
+06-27 20:59:50.053 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.053 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:50.053 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.053 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 13153076(58%
+06-27 20:59:50.073 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.073 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7965087(42%
+06-27 20:59:50.073 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274658(1%
+06-27 20:59:50.073 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.073 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:50.073 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.073 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 10375976(55%
+06-27 20:59:50.103 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.103 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 16265869(67%
+06-27 20:59:50.103 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274658(1%
+06-27 20:59:50.103 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.103 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91552(0%
+06-27 20:59:50.103 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.103 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7446289(30%
+06-27 20:59:50.133 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.133 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 9185791(41%
+06-27 20:59:50.133 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 457764(2%
+06-27 20:59:50.133 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.133 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91552(0%
+06-27 20:59:50.133 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.133 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 12573244(56%
+06-27 20:59:50.153 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.153 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 9521485(40%
+06-27 20:59:50.153 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244140(1%
+06-27 20:59:50.153 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.153 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:50.163 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.163 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 13427735(57%
+06-27 20:59:50.183 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.183 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 8453369(48%
+06-27 20:59:50.183 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 305176(1%
+06-27 20:59:50.183 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.183 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 122071(0%
+06-27 20:59:50.183 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.183 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 8697510(49%
+06-27 20:59:50.203 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.203 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 9094238(53%
+06-27 20:59:50.203 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274658(1%
+06-27 20:59:50.203 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.203 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91552(0%
+06-27 20:59:50.203 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.203 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7568359(44%
+06-27 20:59:50.223 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.223 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7659912(48%
+06-27 20:59:50.223 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274658(1%
+06-27 20:59:50.223 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.223 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91552(0%
+06-27 20:59:50.223 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.223 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7629394(48%
+06-27 20:59:50.243 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.243 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7537843(51%
+06-27 20:59:50.243 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244140(1%
+06-27 20:59:50.243 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 30518(0%
+06-27 20:59:50.243 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 61035(0%
+06-27 20:59:50.243 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.243 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 6835937(46%
+06-27 20:59:50.273 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.273 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 9246827(53%
+06-27 20:59:50.273 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244141(1%
+06-27 20:59:50.273 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.273 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91552(0%
+06-27 20:59:50.273 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.273 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7812501(44%
+06-27 20:59:50.293 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.293 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 8544922(44%
+06-27 20:59:50.293 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 305176(1%
+06-27 20:59:50.293 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.293 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91552(0%
+06-27 20:59:50.293 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 30518(0%
+06-27 20:59:50.293 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 10162354(53%
+06-27 20:59:50.323 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.323 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 9887694(41%
+06-27 20:59:50.323 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 366211(1%
+06-27 20:59:50.323 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.323 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 122071(0%
+06-27 20:59:50.323 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.323 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 13244628(56%
+06-27 20:59:50.343 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.343 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 11718749(56%
+06-27 20:59:50.343 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 610352(2%
+06-27 20:59:50.343 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 30517(0%
+06-27 20:59:50.343 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 122071(0%
+06-27 20:59:50.343 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.343 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 8300780(39%
+06-27 20:59:50.373 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.373 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 6591796(31%
+06-27 20:59:50.373 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244141(1%
+06-27 20:59:50.373 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.373 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:50.373 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.373 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 13946534(66%
+06-27 20:59:50.393 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.393 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 9857178(49%
+06-27 20:59:50.393 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 305176(1%
+06-27 20:59:50.393 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.393 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:50.393 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.393 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 9460450(47%
+06-27 20:59:50.413 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.413 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 8087159(44%
+06-27 20:59:50.413 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274658(1%
+06-27 20:59:50.413 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.413 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:50.413 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 30518(0%
+06-27 20:59:50.413 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 9552002(52%
+06-27 20:59:50.443 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.443 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7934570(43%
+06-27 20:59:50.443 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274658(1%
+06-27 20:59:50.443 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.443 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 122071(0%
+06-27 20:59:50.443 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.443 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 9704589(53%
+06-27 20:59:50.463 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.463 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7385253(50%
+06-27 20:59:50.463 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244141(1%
+06-27 20:59:50.463 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.463 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 61035(0%
+06-27 20:59:50.463 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 30518(0%
+06-27 20:59:50.463 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 6988525(47%
+06-27 20:59:50.483 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.483 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 6622315(47%
+06-27 20:59:50.483 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244141(1%
+06-27 20:59:50.483 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.483 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 61035(0%
+06-27 20:59:50.483 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 30518(0%
+06-27 20:59:50.483 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 6988526(50%
+06-27 20:59:50.503 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.503 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7537842(47%
+06-27 20:59:50.503 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274659(1%
+06-27 20:59:50.503 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.503 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91552(0%
+06-27 20:59:50.503 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.503 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7812500(49%
+06-27 20:59:50.533 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.533 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7415772(46%
+06-27 20:59:50.533 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244141(1%
+06-27 20:59:50.533 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.533 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91552(0%
+06-27 20:59:50.533 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.533 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 8117677(51%
+06-27 20:59:50.563 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.563 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 8148192(31%
+06-27 20:59:50.563 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274659(1%
+06-27 20:59:50.563 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.563 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 122070(0%
+06-27 20:59:50.563 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.563 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 17181395(66%
+06-27 20:59:50.593 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.593 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 8361816(39%
+06-27 20:59:50.593 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274658(1%
+06-27 20:59:50.593 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.593 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 122071(0%
+06-27 20:59:50.593 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.593 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 12176515(58%
+06-27 20:59:50.613 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.613 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 9429932(51%
+06-27 20:59:50.613 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244140(1%
+06-27 20:59:50.613 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.613 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:50.613 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 30518(0%
+06-27 20:59:50.613 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 8666992(46%
+06-27 20:59:50.633 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.633 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7537843(43%
+06-27 20:59:50.633 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274658(1%
+06-27 20:59:50.633 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.633 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91552(0%
+06-27 20:59:50.633 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.633 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 9307862(54%
+06-27 20:59:50.653 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.653 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7202148(45%
+06-27 20:59:50.653 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244140(1%
+06-27 20:59:50.653 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.653 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:50.653 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.653 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 8148193(51%
+06-27 20:59:50.683 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.683 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7263183(48%
+06-27 20:59:50.683 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244141(1%
+06-27 20:59:50.683 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.683 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 61035(0%
+06-27 20:59:50.683 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.683 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7446290(49%
+06-27 20:59:50.713 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.713 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 8514403(38%
+06-27 20:59:50.713 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274659(1%
+06-27 20:59:50.713 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 30517(0%
+06-27 20:59:50.713 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:50.713 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.713 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 13366700(60%
+06-27 20:59:50.734 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.734 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 8056641(44%
+06-27 20:59:50.734 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274658(1%
+06-27 20:59:50.734 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.734 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:50.734 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.734 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 9674072(53%
+06-27 20:59:50.754 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.754 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7263184(45%
+06-27 20:59:50.754 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244140(1%
+06-27 20:59:50.754 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.754 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:50.754 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.754 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 8392334(52%
+06-27 20:59:50.784 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.784 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7263183(33%
+06-27 20:59:50.784 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 335694(1%
+06-27 20:59:50.784 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.784 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:50.784 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.784 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 14221190(64%
+06-27 20:59:50.804 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.804 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7873536(45%
+06-27 20:59:50.804 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 305175(1%
+06-27 20:59:50.804 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.804 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:50.804 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.804 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 9033204(52%
+06-27 20:59:50.824 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.824 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7293701(46%
+06-27 20:59:50.824 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274659(1%
+06-27 20:59:50.824 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.824 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 61035(0%
+06-27 20:59:50.824 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 30517(0%
+06-27 20:59:50.824 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7995606(51%
+06-27 20:59:50.844 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.844 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 6652832(47%
+06-27 20:59:50.844 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 335694(2%
+06-27 20:59:50.844 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 30518(0%
+06-27 20:59:50.844 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 61035(0%
+06-27 20:59:50.844 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.844 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7019043(49%
+06-27 20:59:50.874 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.874 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7995605(44%
+06-27 20:59:50.874 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274658(1%
+06-27 20:59:50.874 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.874 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:50.874 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 30518(0%
+06-27 20:59:50.874 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 9613036(53%
+06-27 20:59:50.894 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.894 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7171631(41%
+06-27 20:59:50.894 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244140(1%
+06-27 20:59:50.894 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.894 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:50.894 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.894 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 9613037(56%
+06-27 20:59:50.924 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.924 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 8148194(40%
+06-27 20:59:50.924 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274658(1%
+06-27 20:59:50.924 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 30518(0%
+06-27 20:59:50.924 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:50.924 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.924 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 11474609(57%
+06-27 20:59:50.954 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.954 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 8270263(42%
+06-27 20:59:50.954 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274659(1%
+06-27 20:59:50.954 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.954 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91552(0%
+06-27 20:59:50.954 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.954 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 10955812(55%
+06-27 20:59:50.964 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.974 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7141112(45%
+06-27 20:59:50.974 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244141(1%
+06-27 20:59:50.974 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 30518(0%
+06-27 20:59:50.974 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 61035(0%
+06-27 20:59:50.974 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.974 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 8178710(52%
+06-27 20:59:50.994 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:50.994 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7568359(46%
+06-27 20:59:50.994 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244140(1%
+06-27 20:59:50.994 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:50.994 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:50.994 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:50.994 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 8209228(50%
+06-27 20:59:51.014 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.014 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 6988525(47%
+06-27 20:59:51.014 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244141(1%
+06-27 20:59:51.014 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:51.014 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:51.014 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:51.014 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7537842(50%
+06-27 20:59:51.034 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.034 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 6378174(46%
+06-27 20:59:51.034 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274659(2%
+06-27 20:59:51.034 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:51.034 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91552(0%
+06-27 20:59:51.034 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:51.034 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 6958008(50%
+06-27 20:59:51.064 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.064 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7171631(45%
+06-27 20:59:51.064 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244141(1%
+06-27 20:59:51.064 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:51.064 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91552(0%
+06-27 20:59:51.064 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:51.064 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 8209229(52%
+06-27 20:59:51.084 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.084 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 6469726(47%
+06-27 20:59:51.084 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244141(1%
+06-27 20:59:51.084 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:51.084 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91552(0%
+06-27 20:59:51.084 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:51.084 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 6958008(50%
+06-27 20:59:51.104 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.104 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7415771(50%
+06-27 20:59:51.104 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244140(1%
+06-27 20:59:51.104 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:51.104 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:51.104 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:51.104 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7049560(47%
+06-27 20:59:51.134 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.134 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 6774903(47%
+06-27 20:59:51.134 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244140(1%
+06-27 20:59:51.134 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:51.134 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:51.134 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:51.134 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7263184(50%
+06-27 20:59:51.154 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.154 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 8331299(44%
+06-27 20:59:51.154 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274658(1%
+06-27 20:59:51.154 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:51.154 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 122070(0%
+06-27 20:59:51.154 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:51.164 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 9796143(52%
+06-27 20:59:51.184 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.184 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 6561279(45%
+06-27 20:59:51.184 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244140(1%
+06-27 20:59:51.184 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:51.184 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:51.184 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:51.184 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7415771(51%
+06-27 20:59:51.214 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.214 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 9338378(49%
+06-27 20:59:51.214 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244141(1%
+06-27 20:59:51.214 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:51.214 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:51.214 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:51.214 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 9124756(48%
+06-27 20:59:51.244 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.244 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 9368897(42%
+06-27 20:59:51.244 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 335693(1%
+06-27 20:59:51.244 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:51.244 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 1129150(5%
+06-27 20:59:51.244 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:51.244 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 11016846(50%
+06-27 20:59:51.264 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.264 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 6561278(45%
+06-27 20:59:51.264 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 213623(1%
+06-27 20:59:51.264 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:51.264 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:51.264 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:51.264 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7659912(52%
+06-27 20:59:51.284 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.284 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 6500243(46%
+06-27 20:59:51.284 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244141(1%
+06-27 20:59:51.284 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:51.284 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 61035(0%
+06-27 20:59:51.284 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 30518(0%
+06-27 20:59:51.284 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7110596(50%
+06-27 20:59:51.304 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.304 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7324219(49%
+06-27 20:59:51.304 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244140(1%
+06-27 20:59:51.304 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:51.304 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:51.304 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:51.304 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7171631(48%
+06-27 20:59:51.334 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.334 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7781983(45%
+06-27 20:59:51.334 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274658(1%
+06-27 20:59:51.334 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:51.334 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 122070(0%
+06-27 20:59:51.334 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:51.334 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 8911134(52%
+06-27 20:59:51.364 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.364 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 10467529(43%
+06-27 20:59:51.364 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274658(1%
+06-27 20:59:51.364 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:51.364 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91552(0%
+06-27 20:59:51.364 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:51.364 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 13000488(54%
+06-27 20:59:51.384 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.384 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7995606(43%
+06-27 20:59:51.384 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274658(1%
+06-27 20:59:51.384 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 30518(0%
+06-27 20:59:51.384 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:51.384 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:51.384 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 10131836(54%
+06-27 20:59:51.404 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.404 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 8148193(50%
+06-27 20:59:51.404 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274658(1%
+06-27 20:59:51.404 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:51.404 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:51.404 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:51.404 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7659913(47%
+06-27 20:59:51.424 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.424 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7293701(47%
+06-27 20:59:51.424 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244140(1%
+06-27 20:59:51.424 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 30518(0%
+06-27 20:59:51.424 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 61035(0%
+06-27 20:59:51.424 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:51.424 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7690429(50%
+06-27 20:59:51.454 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.454 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7263184(32%
+06-27 20:59:51.454 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 3082276(13%
+06-27 20:59:51.454 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:51.454 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 122070(0%
+06-27 20:59:51.464 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:51.464 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 11596680(52%
+06-27 20:59:51.474 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.474 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 6530762(46%
+06-27 20:59:51.474 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 213623(1%
+06-27 20:59:51.474 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:51.474 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:51.474 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:51.474 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7171631(51%
+06-27 20:59:51.494 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.494 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 6652833(47%
+06-27 20:59:51.494 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 213623(1%
+06-27 20:59:51.494 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:51.494 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:51.494 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:51.494 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 6958007(49%
+06-27 20:59:51.524 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.524 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7171631(49%
+06-27 20:59:51.524 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244140(1%
+06-27 20:59:51.524 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:51.524 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:51.524 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:51.524 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7080078(48%
+06-27 20:59:51.544 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.544 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 7049561(47%
+06-27 20:59:51.544 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244141(1%
+06-27 20:59:51.544 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:51.544 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:51.544 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:51.544 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7537841(50%
+06-27 20:59:51.574 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.574 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 9063721(53%
+06-27 20:59:51.574 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244141(1%
+06-27 20:59:51.574 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:51.574 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:51.574 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:51.574 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7415771(44%
+06-27 20:59:51.594 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.594 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 6988525(47%
+06-27 20:59:51.594 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244141(1%
+06-27 20:59:51.594 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:51.594 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 61035(0%
+06-27 20:59:51.594 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:51.594 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7415771(50%
+06-27 20:59:51.624 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.624 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 8544923(52%
+06-27 20:59:51.624 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274658(1%
+06-27 20:59:51.624 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:51.624 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91552(0%
+06-27 20:59:51.624 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:51.624 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7263185(44%
+06-27 20:59:51.664 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.664 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 14770508(46%
+06-27 20:59:51.664 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244141(0%
+06-27 20:59:51.664 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 30517(0%
+06-27 20:59:51.664 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 61035(0%
+06-27 20:59:51.664 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 30518(0%
+06-27 20:59:51.664 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 16662598(52%
+06-27 20:59:51.684 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.684 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 6713867(36%
+06-27 20:59:51.684 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 244141(1%
+06-27 20:59:51.684 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:51.684 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:51.684 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:51.684 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 11383055(61%
+06-27 20:59:51.724 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.724 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 14526369(63%
+06-27 20:59:51.724 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274658(1%
+06-27 20:59:51.724 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 30517(0%
+06-27 20:59:51.724 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 91553(0%
+06-27 20:59:51.724 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 0(0%
+06-27 20:59:51.724 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 7843018(34%
+06-27 20:59:51.755 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: DRAW TIMES:
+06-27 20:59:51.755 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Background: 16906737(56%
+06-27 20:59:51.755 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level: 274658(0%
+06-27 20:59:51.755 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Level loader: 0(0%
+06-27 20:59:51.755 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Player: 61035(0%
+06-27 20:59:51.755 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Transitioner: 30518(0%
+06-27 20:59:51.755 14641-14944/com.alyssalerner.mouseytrap I/GamePanel: 	Overlay: 12542724(42%
